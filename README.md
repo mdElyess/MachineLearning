@@ -1,4 +1,9 @@
 # Language Translator Using Deep Learning
+## Project purpose
+
+This is a project was made to translate a language A to a language B.
+I have traned it to translate from English to Arabic
 
 
-you can find the link to colab [here](https://colab.research.google.com/drive/1BxU9TJe1H3UVtzoAEclE71tzbr4A176_?usp=sharing)
+You can find the link to colab [here](https://colab.research.google.com/drive/1BxU9TJe1H3UVtzoAEclE71tzbr4A176_?usp=sharing)
+I have used  this [dataset](https://drive.google.com/file/d/1o5OAGLg-GhvPEq62wPJ7mjXAJ8Jkl9Yv/view?usp=sharing)
